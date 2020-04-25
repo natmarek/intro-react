@@ -81,7 +81,7 @@ addStudent(studentName) {
       );
     }
 
-    /*Uncomment lines below to render grades*\
+    //Uncomment lines below to render grades*\
     if (this.state.buttonClicked === "grades") {
       tabChoice = (
         <Table
